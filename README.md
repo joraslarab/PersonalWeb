@@ -1,2 +1,2 @@
 # PersonalWeb
-This my first web hosting repo
+This is my first web hosting repo
